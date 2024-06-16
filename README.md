@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A Full-Stack Developer by day ☼ and a Community Contributor by night ☾
+#### A Full-Stack Developer by day ☼ and Community Contributor by night ☾
 
 Co-Founder and Software Engineer at [Quantorithm Pvt Ltd](https://quantorithm.com);<br>
 
