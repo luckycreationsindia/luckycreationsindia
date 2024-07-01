@@ -2,7 +2,7 @@
 
 #### A Full-Stack Developer by day ☼ and Community Contributor by night ☾
 
-Co-Founder and Software Engineer at <a href="https://quantorithm.com/" target="blank" rel="noopener noreferrer">Quantorithm Pvt Ltd</a><br>
+Co-Founder and Software Engineer at [Quantorithm Pvt Ltd](https://quantorithm.com/)<br>
 
 - ⚙️ Expertise: `NodeJS`, `Flutter`, `Android`, `Java`, `PHP`, `MATLAB`, `Data Processing and Analysis`, `AI`, `Linux Scripting`, `Windows App Development`, `E-Commerce Website`, `Static Website`, `Image and Video Editing`
 - 🌍 I'm mostly active within the **NodeJS and Flutter Community**
