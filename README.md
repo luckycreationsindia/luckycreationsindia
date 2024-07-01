@@ -8,5 +8,7 @@ Co-Founder and Software Engineer at [Quantorithm Pvt Ltd](https://quantorithm.co
 - 🌍 I'm mostly active within the **NodeJS and Flutter Community**
 - 💬 `ping` me about **apps**, **software**, **website** **development**
 
+CV: [Visit Website](https://lokeshjain.in/)
+
 
 ![Lokesh Jain's GitHub stats](https://stats.lokeshjain.in/)
