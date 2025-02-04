@@ -9,6 +9,3 @@ Co-Founder and Software Engineer at [Quantorithm Pvt Ltd](https://quantorithm.co
 - 💬 `ping` me about **apps**, **software**, **website** **development**
 
 CV: [Visit Website](https://lokeshjain.com/)
-
-
-![Lokesh Jain's GitHub stats](https://stats.lokeshjain.in/)
